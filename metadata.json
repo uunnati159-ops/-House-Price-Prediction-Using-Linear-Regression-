@@ -1,0 +1,6 @@
+{
+  "name": "House Price Prediction Using Linear Regression",
+  "description": "A complete machine learning college major project implementing Linear Regression for real estate price valuation with dataset exploration, interactive visualizations, model evaluation, and documentation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
